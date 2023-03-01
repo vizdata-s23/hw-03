@@ -20,8 +20,8 @@ all checks pass.
     shared with them, you should add your name somewhere on the plot,
     e.g., the caption. If you don’t want your name shown, just leave it
     out and the plot will be shared anonymously. (There are no points
-    attached to this, you can choose to share with your name or
-    anonymously.)
+    attached to adding your name to them, you can choose to share with your 
+    name or anonymously.)
     
 2.  **A second chance.** Take one of the visualizations from your first project, 
     ideally one you received more feedback on / lost more points on and 
@@ -112,7 +112,7 @@ all checks pass.
     Atlanta, Georgia. This visualization was originally created using ink 
     and watercolors.
 
-    <img src="images/income-expenditures-orig.png" width="90%" />
+    <img src="images/income-expenditures-orig.jpeg" width="90%" />
 
     Notes for recreation:
 
