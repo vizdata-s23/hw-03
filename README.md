@@ -115,6 +115,8 @@ all checks pass.
     <img src="images/income-expenditures-orig.png" width="90%" />
 
     Notes for recreation:
+
+    - Use the `data/income.csv` as your starting point.
     
     - You do not need to recreate (1) the plot title, (2) the dollar coin 
     (the circle on top left) and the arched "Annual Income" text above it, 
@@ -131,4 +133,6 @@ all checks pass.
     background of the plot.
     
     - You are welcomed to use the steps outlined in `ae-12` to recreate this, 
-    but you do not have to. You can do it all in one step as well.
+    but you do not have to. You can do it all in one step as well. Note that 
+    the steps contain good hints though, so if you're struggling, make sure to 
+    look there first.
