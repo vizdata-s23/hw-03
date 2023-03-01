@@ -1,5 +1,5 @@
 ---
-title: "HW 02"
+title: "HW 03"
 author: "INSERT YOUR NAME HERE"
 format:
   html:
@@ -7,24 +7,24 @@ format:
 toc: true
 ---
 
-## 1 - A new day, a new plot, a new geom
+## 1 - Thank you.
 
 ```{r}
 #| label: label-me-1
 
 ```
 
-## 2 - Foreign Connected PACs
+## 2 - A second chance.
 
 ```{r}
 #| label: label-me-2
 
 ```
 
-## 3 - Hop on
+## 3 - Median housing prices in the US.
 
 
-## 4 - Expect More. Plot More.
+## 4 - That’s what our guest said.
 
 
-## 5 - Mirror, mirror on the wall, who’s the ugliest of them all?
+## 5 - Du Bois challenge.
